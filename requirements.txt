@@ -1,4 +1,3 @@
-torch
 pandas
 dvc
 mlflow==2.2.2
